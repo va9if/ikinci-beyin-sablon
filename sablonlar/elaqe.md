@@ -10,4 +10,4 @@
 YYYY-MM-DD: nə müzakirə olundu, nə razılaşdıq
 
 ## Əlaqəli
-[[Insanlar]]
+[[Elaqeler]]

@@ -30,9 +30,9 @@ wiki/             təmiz, bir-birinə bağlı səhifələr
   Qaydalar.md     AI-a verdiyin davamlı göstərişlər
   Layiheler.md    layihə indeksi
   Qerarlar.md     qərar indeksi
-  Insanlar.md     müştəri və tərəfdaş indeksi
+  Elaqeler.md     müştəri, tərəfdaş və komanda indeksi
   layiheler/      hər layihə üçün bir səhifə
-  insanlar/       hər insan üçün bir səhifə
+  elaqeler/       hər əlaqə üçün bir səhifə
 raw/              xam qeydlər
   qerarlar/       hər vacib qərarın tam izahı
   qeydler/        faydalı söhbət nəticələri
